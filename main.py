@@ -9,4 +9,4 @@ for x in vowel:
         if x == letter.lower():
             count += 1
 
-print("Всего гласных букв {}".format(str(count)))
+print("Всего гласных букв: {}".format(str(count)))
